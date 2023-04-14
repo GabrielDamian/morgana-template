@@ -1,7 +1,7 @@
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 
 
-import Widget_1 from './Modules/Widget_1/WidgetCore';
+import Widget_1 from './MorganaCore//Modules/Widget_1/WidgetCore';
 import {Theme} from './MorganaCore/theme';
 import Button_1 from './MorganaCore/Atoms/Button_1';
 

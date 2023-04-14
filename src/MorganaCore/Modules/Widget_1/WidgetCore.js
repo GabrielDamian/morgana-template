@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 import DefaultLogo from './res/defaultLogo.png';
-import {Theme, defaultTheme} from '../../MorganaCore/theme'
+import {Theme, defaultTheme} from '../../../MorganaCore/theme'
 
 export default function Widget_1 ({
     logoImgParam,
